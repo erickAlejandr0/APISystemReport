@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from .routers import capas, reportes,usuarios
-from .DataBase.db import init_db
+from app.routers import capas, reportes,usuarios
+from app.DataBase.db import init_db
 from contextlib import asynccontextmanager
 
 @asynccontextmanager
