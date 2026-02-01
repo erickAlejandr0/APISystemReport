@@ -12,8 +12,7 @@ API REST geoespacial desarrollada con **FastAPI** para la gestión de reportes d
 - [Uso](#-uso)
 - [Endpoints de la API](#-endpoints-de-la-api)
 - [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
+
 
 ## Características
 
